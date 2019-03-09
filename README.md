@@ -1,6 +1,6 @@
 # devops-aula05
 
-A Origem
-Interestelar
-O Jogo Da Imitação
+A Origem <br>
+Interestelar <br>
+O Jogo Da Imitação <br>
 A Vida é Bela
